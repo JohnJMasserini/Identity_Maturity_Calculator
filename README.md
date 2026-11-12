@@ -83,7 +83,7 @@ Full guidance, including tips for consistent and defensible scoring, is in the [
 
 ### Domain Radar Score
 
-![Instructions tab](docs/screenshots/domain-radar-tab2.png)
+![Instructions tab](docs/screenshots/Ident_Mat_Calc.png)
 
 ### Domain Tabular Score
 
