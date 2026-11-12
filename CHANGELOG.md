@@ -21,14 +21,8 @@ This is the first version of the Identity Maturity Calculator published to GitHu
 
 > **Note:** this repository's history begins at v2.0.0 of the workbook. 
 
+## v2.0.1 — Maintenance Release
+
+Corrected and enhanced visual aspects of radar chart. No logic changes.
+
 ---
-
-### Versioning Convention
-
-This project follows a simplified `MAJOR.MINOR.PATCH` convention for the workbook itself:
-
-- **MAJOR** — structural changes: a domain added/removed/renamed, a question added/removed, or a change to the scoring scale.
-- **MINOR** — content changes that don't alter structure: reworded questions or expectations, new guidance in Instructions, chart styling changes.
-- **PATCH** — corrections: typo fixes, formula fixes, formatting-only changes.
-
-Each release should be tagged in git (`git tag v2.0.0`) and published as a [GitHub Release](https://github.com/SentiConSecurity/Identity_Maturity_Calculator/releases) with the workbook attached as a binary asset — do not rely on GitHub's auto-generated source archives, which won't contain the `.xlsx` file unless it's committed to the repository.
